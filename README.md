@@ -7,7 +7,7 @@ Trata-se de um repositório para a continuação dos estudos em JS com typescrip
 - No terminal digite: <br />
   $ npm install
  
-### Testar a aplicação
+### Para testar a aplicação
 
 - No terminal digite: <br />
   $ yarn dev
